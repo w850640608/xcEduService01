@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5bdc082-e940-4755-8945-cc9c8bfcf9e2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1d3tPmy26gDk5UHvjICHYZcwwJP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="D:/gitWork" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.47241378" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\teach\xcEdu\xcEduService01\xc-service-manage-cms\src\main\resources" />
+      <recent name="D:\teach\xcEdu\xcEduService01\xc-service-api\target" />
+      <recent name="D:\teach\xcEdu\xcEduService01\xc-service-api\src\main\java\com" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.manage_cms" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.search" />
+      <recent name="com.xuecheng.manage_course.dao" />
+      <recent name="com.xuecheng.api.cms" />
+      <recent name="com.xuecheng.manage_cms.config" />
+      <recent name="com.xuecheng.manage_cms_client.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\teach\xcEdu\xcEduService01\test-freemarker\src\main\java\com\xuecheng\test\freemarker" />
+      <recent name="D:\teach\xcEdu\xcEduService01\test-freemarker\src\main\resources" />
+      <recent name="D:\teach\xcEdu\xcEduService01\test-freemarker\src\main\resources\templates" />
+      <recent name="D:\teach\xcEdu\xcEduService01\xc-govern-center\src\main\java\com\xuecheng\govern\center" />
+      <recent name="D:\teach\xcEdu\xcEduService01\xc-govern-center\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Cardioid">
+    <configuration name="First" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.search.First" />
+      <module name="xc-service-search" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cardioid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.search.Cardioid" />
+      <module name="xc-service-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GridFsTest.testStore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.GridFsTest" />
+      <option name="METHOD_NAME" value="testStore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSearch.testSearchAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.search" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.search.TestSearch" />
+      <option name="METHOD_NAME" value="testSearchAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-base-filesystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.filesystem.FileSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreemarkerTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="test-freemarker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.test.freemarker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.test.freemarker.FreemarkerTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms.ManageCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-cms-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms_client.ManageCmsClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_course.ManageCourseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFastDFSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-fastdfs" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.test.fastdfs.TestFastDFSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cms01" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="xc-edu">
+      <module name="xc-service-manage-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms.ManageCmsApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=31001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cms02" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="xc-edu">
+      <module name="xc-service-manage-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms.ManageCmsApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=31002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka01" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="xc-edu">
+      <module name="xc-govern-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.govern.center.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.govern.center.GovernCenterApplication" />
+      <option name="VM_PARAMETERS" value=" -DPORT=50101 -DEUREKA_SERVER=http://eureka02:50102/eureka/ -DEUREKA_DOMAIN=eureka01" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka02" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="xc-edu">
+      <module name="xc-govern-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.govern.center.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.govern.center.GovernCenterApplication" />
+      <option name="VM_PARAMETERS" value=" -DPORT=50102 -DEUREKA_SERVER=http://eureka01:50101/eureka/ -DEUREKA_DOMAIN=eureka02" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Applet.First" />
+      <item itemvalue="Application.Cardioid" />
+      <item itemvalue="JUnit.GridFsTest.testStore" />
+      <item itemvalue="JUnit.TestSearch.testSearchAll" />
+      <item itemvalue="Spring Boot.eureka01" />
+      <item itemvalue="Spring Boot.eureka02" />
+      <item itemvalue="Spring Boot.cms01" />
+      <item itemvalue="Spring Boot.cms02" />
+      <item itemvalue="Spring Boot.FileSystemApplication" />
+      <item itemvalue="Spring Boot.ManageCmsApplication" />
+      <item itemvalue="Spring Boot.ManageCmsClientApplication" />
+      <item itemvalue="Spring Boot.ManageCourseApplication" />
+      <item itemvalue="Spring Boot.TestFastDFSApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.FreemarkerTestApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cardioid" />
+        <item itemvalue="Applet.First" />
+        <item itemvalue="JUnit.TestSearch.testSearchAll" />
+        <item itemvalue="Spring Boot.FreemarkerTestApplication" />
+        <item itemvalue="JUnit.GridFsTest.testStore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5bdc082-e940-4755-8945-cc9c8bfcf9e2" name="Default Changelist" comment="" />
+      <created>1591665582157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591665582157</updated>
+      <workItem from="1591665583518" duration="3527000" />
+      <workItem from="1591711771234" duration="1890000" />
+      <workItem from="1591792910159" duration="1365000" />
+      <workItem from="1591865463103" duration="3879000" />
+      <workItem from="1591878532201" duration="270000" />
+      <workItem from="1591878827910" duration="2707000" />
+      <workItem from="1591931835291" duration="1570000" />
+      <workItem from="1592187914407" duration="475000" />
+      <workItem from="1592206161894" duration="884000" />
+      <workItem from="1592210687304" duration="79000" />
+      <workItem from="1592210798881" duration="1041000" />
+      <workItem from="1592211870475" duration="1069000" />
+      <workItem from="1592212971095" duration="529000" />
+      <workItem from="1592267968992" duration="7000" />
+      <workItem from="1592268402468" duration="1557000" />
+      <workItem from="1592361804319" duration="503000" />
+      <workItem from="1592362343536" duration="6011000" />
+      <workItem from="1592471005005" duration="2934000" />
+      <workItem from="1592474030516" duration="1099000" />
+      <workItem from="1592483830980" duration="2229000" />
+      <workItem from="1592554549561" duration="1911000" />
+      <workItem from="1592910524431" duration="623000" />
+      <workItem from="1593335475492" duration="1177000" />
+      <workItem from="1593390503660" duration="11081000" />
+      <workItem from="1594087382402" duration="7000" />
+      <workItem from="1594087683938" duration="6000" />
+      <workItem from="1594087728199" duration="1568000" />
+      <workItem from="1594089790499" duration="9389000" />
+      <workItem from="1594169528425" duration="1657000" />
+      <workItem from="1594276693498" duration="5351000" />
+      <workItem from="1594295845849" duration="4262000" />
+      <workItem from="1594534258940" duration="10213000" />
+      <workItem from="1594612485199" duration="9470000" />
+      <workItem from="1594695340709" duration="354000" />
+      <workItem from="1594697107169" duration="9900000" />
+      <workItem from="1594774069633" duration="8623000" />
+      <workItem from="1594784667860" duration="320000" />
+      <workItem from="1594785066783" duration="7350000" />
+      <workItem from="1594861242082" duration="15110000" />
+      <workItem from="1594945300739" duration="2757000" />
+      <workItem from="1594969647761" duration="8606000" />
+      <workItem from="1595387490887" duration="18413000" />
+      <workItem from="1595932493155" duration="3075000" />
+      <workItem from="1595987701238" duration="14715000" />
+      <workItem from="1596072260450" duration="6656000" />
+      <workItem from="1597282661245" duration="293000" />
+      <workItem from="1597284559806" duration="2646000" />
+      <workItem from="1597367487617" duration="6000" />
+      <workItem from="1597367748446" duration="32000" />
+      <workItem from="1597388055851" duration="2088000" />
+      <workItem from="1597912231262" duration="2577000" />
+      <workItem from="1597972231963" duration="3616000" />
+      <workItem from="1597978794839" duration="5865000" />
+      <workItem from="1598145111379" duration="668000" />
+      <workItem from="1598403180661" duration="4327000" />
+      <workItem from="1598490232319" duration="11089000" />
+      <workItem from="1598516693456" duration="1063000" />
+      <workItem from="1598517820934" duration="2067000" />
+      <workItem from="1598579014048" duration="2876000" />
+      <workItem from="1598864659356" duration="750000" />
+      <workItem from="1598924057522" duration="3030000" />
+      <workItem from="1599116734435" duration="4873000" />
+      <workItem from="1599449080235" duration="3118000" />
+      <workItem from="1599723957703" duration="3962000" />
+      <workItem from="1599787628298" duration="245000" />
+      <workItem from="1600051195138" duration="1690000" />
+      <workItem from="1600053146880" duration="246000" />
+      <workItem from="1600055112031" duration="4463000" />
+      <workItem from="1600066031886" duration="5000" />
+      <workItem from="1600066237174" duration="157000" />
+      <workItem from="1600066540362" duration="69000" />
+      <workItem from="1600066661241" duration="77000" />
+      <workItem from="1600066827379" duration="756000" />
+      <workItem from="1600068361398" duration="2841000" />
+      <workItem from="1600130887859" duration="18033000" />
+      <workItem from="1600218204498" duration="4198000" />
+      <workItem from="1600388891944" duration="3735000" />
+      <workItem from="1600415851538" duration="602000" />
+      <workItem from="1600674826696" duration="5517000" />
+      <workItem from="1600734862615" duration="6530000" />
+      <workItem from="1600995969394" duration="603000" />
+      <workItem from="1601024509248" duration="91000" />
+      <workItem from="1601272333225" duration="3380000" />
+      <workItem from="1602210600959" duration="117000" />
+      <workItem from="1602210779888" duration="2892000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1592206163672">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592206163671" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsConfig.java</url>
+          <line>22</line>
+          <properties field="model" class="com.xuecheng.framework.domain.cms.CmsConfig" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/dao/PageServiceTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-manage-course/src/test/java/com/xuecheng/manage_course/dao/TestRabbion.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/service/EsCourseService.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/client/CmsPageClient.java</url>
+          <line>26</line>
+          <properties class="com.xuecheng.manage_course.client.CmsPageClient" method="postPageQuick" />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
