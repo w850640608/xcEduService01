@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5bdc082-e940-4755-8945-cc9c8bfcf9e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-search/src/test/java/com/xuecheng/search/TestIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-search/src/test/java/com/xuecheng/search/TestIndex.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -408,7 +409,7 @@
       <workItem from="1601024509248" duration="91000" />
       <workItem from="1601272333225" duration="3380000" />
       <workItem from="1602210600959" duration="117000" />
-      <workItem from="1602210779888" duration="4041000" />
+      <workItem from="1602210779888" duration="4309000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1602224764303</created>
@@ -424,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602225303095</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新第二次">
+      <created>1602225635454</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602225635454</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

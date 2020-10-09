@@ -27,7 +27,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Administrator   123
+ * @author Administrator   123456
  * @version 1.0
  **/
 @SpringBootTest
@@ -99,7 +99,7 @@ public class TestIndex {
         //准备json数据
         Map<String, Object> jsonMap = new HashMap<>();
         jsonMap.put("name", "spring cloud实战");
-        jsonMap.put("description", "本课程主要从四个章节进行讲解： 1.微服务架构入门 2.spring cloud 基础入门 3.实战Spring Boot 4.注册中心eureka。");
+        jsonMap.put("description", "本课程主要从四个章节进行讲解： 1.微服务架构入门 2.spring cloud 基础入门 3.实战Spring Boot 4.注册中心eureka231。");
         jsonMap.put("studymodel", "201001");
         SimpleDateFormat dateFormat =new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         jsonMap.put("timestamp", dateFormat.format(new Date()));
