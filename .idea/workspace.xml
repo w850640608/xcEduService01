@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5bdc082-e940-4755-8945-cc9c8bfcf9e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/media/MediaUploadControllerApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/main/java/com/xuecheng/manage_media/controller/MediaUploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/main/java/com/xuecheng/manage_media/service/MediaUploadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/test/java/com/xuecheng/media/TestFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/xc-service-manage-media.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-search/src/test/java/com/xuecheng/search/TestIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-search/src/test/java/com/xuecheng/search/TestIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/MediaFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/MediaFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/service/CourseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/service/CourseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/service/EsCourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/service/EsCourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-search/target/classes/com/xuecheng/search/service/EsCourseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-search/target/classes/com/xuecheng/search/service/EsCourseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-search/target/test-classes/com/xuecheng/search/TestIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-search/target/test-classes/com/xuecheng/search/TestIndex.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,10 +94,11 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="D:/gitWork" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xc-service-manage-media" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -97,13 +112,15 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\teach\xcEdu\xcEduService01\xc-service-manage-cms\src\main\resources" />
-      <recent name="D:\teach\xcEdu\xcEduService01\xc-service-api\target" />
-      <recent name="D:\teach\xcEdu\xcEduService01\xc-service-api\src\main\java\com" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.xuecheng.manage_cms" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\teach\xcEdu\xcEduService01\test-freemarker\src\main\java\com\xuecheng\test\freemarker" />
+      <recent name="D:\teach\xcEdu\xcEduService01\test-freemarker\src\main\resources" />
+      <recent name="D:\teach\xcEdu\xcEduService01\test-freemarker\src\main\resources\templates" />
+      <recent name="D:\teach\xcEdu\xcEduService01\xc-govern-center\src\main\java\com\xuecheng\govern\center" />
+      <recent name="D:\teach\xcEdu\xcEduService01\xc-govern-center\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xuecheng.search" />
@@ -112,12 +129,10 @@
       <recent name="com.xuecheng.manage_cms.config" />
       <recent name="com.xuecheng.manage_cms_client.dao" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\teach\xcEdu\xcEduService01\test-freemarker\src\main\java\com\xuecheng\test\freemarker" />
-      <recent name="D:\teach\xcEdu\xcEduService01\test-freemarker\src\main\resources" />
-      <recent name="D:\teach\xcEdu\xcEduService01\test-freemarker\src\main\resources\templates" />
-      <recent name="D:\teach\xcEdu\xcEduService01\xc-govern-center\src\main\java\com\xuecheng\govern\center" />
-      <recent name="D:\teach\xcEdu\xcEduService01\xc-govern-center\src\main\resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\teach\xcEdu\xcEduService01\xc-service-manage-cms\src\main\resources" />
+      <recent name="D:\teach\xcEdu\xcEduService01\xc-service-api\target" />
+      <recent name="D:\teach\xcEdu\xcEduService01\xc-service-api\src\main\java\com" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -132,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cardioid">
+  <component name="RunManager" selected="JUnit.TestFile.testMergeFile">
     <configuration name="First" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuecheng.search.First" />
       <module name="xc-service-search" />
@@ -153,17 +168,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GridFsTest.testStore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xc-service-manage-cms" />
+    <configuration name="TestFile.testChunk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-media" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="PATTERN" value="com.xuecheng.media.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms" />
-      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.GridFsTest" />
-      <option name="METHOD_NAME" value="testStore" />
+      <option name="PACKAGE_NAME" value="com.xuecheng.media" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.media.TestFile" />
+      <option name="METHOD_NAME" value="testChunk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFile.testMergeFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.media.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.media" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.media.TestFile" />
+      <option name="METHOD_NAME" value="testMergeFile" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -192,19 +223,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FreemarkerTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="test-freemarker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuecheng.test.freemarker.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.test.freemarker.FreemarkerTestApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ManageCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="xc-service-manage-cms" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms.ManageCmsApplication" />
@@ -222,6 +240,13 @@
     <configuration name="ManageCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="xc-service-manage-course" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_course.ManageCourseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageMediaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-media" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_media.ManageMediaApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -291,8 +316,9 @@
     <list>
       <item itemvalue="Applet.First" />
       <item itemvalue="Application.Cardioid" />
-      <item itemvalue="JUnit.GridFsTest.testStore" />
       <item itemvalue="JUnit.TestSearch.testSearchAll" />
+      <item itemvalue="JUnit.TestFile.testChunk" />
+      <item itemvalue="JUnit.TestFile.testMergeFile" />
       <item itemvalue="Spring Boot.eureka01" />
       <item itemvalue="Spring Boot.eureka02" />
       <item itemvalue="Spring Boot.cms01" />
@@ -303,15 +329,15 @@
       <item itemvalue="Spring Boot.ManageCourseApplication" />
       <item itemvalue="Spring Boot.TestFastDFSApplication" />
       <item itemvalue="Spring Boot.SearchApplication" />
-      <item itemvalue="Spring Boot.FreemarkerTestApplication" />
+      <item itemvalue="Spring Boot.ManageMediaApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestFile.testMergeFile" />
+        <item itemvalue="JUnit.TestFile.testChunk" />
         <item itemvalue="Application.Cardioid" />
         <item itemvalue="Applet.First" />
         <item itemvalue="JUnit.TestSearch.testSearchAll" />
-        <item itemvalue="Spring Boot.FreemarkerTestApplication" />
-        <item itemvalue="JUnit.GridFsTest.testStore" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +435,16 @@
       <workItem from="1601024509248" duration="91000" />
       <workItem from="1601272333225" duration="3380000" />
       <workItem from="1602210600959" duration="117000" />
-      <workItem from="1602210779888" duration="4309000" />
+      <workItem from="1602210779888" duration="5480000" />
+      <workItem from="1602311119832" duration="6181000" />
+      <workItem from="1602579890902" duration="18000" />
+      <workItem from="1602579961418" duration="368000" />
+      <workItem from="1602580411921" duration="24000" />
+      <workItem from="1602580489416" duration="79000" />
+      <workItem from="1602580607465" duration="8000" />
+      <workItem from="1602655810240" duration="10480000" />
+      <workItem from="1602723022231" duration="36000" />
+      <workItem from="1602723089079" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1602224764303</created>
@@ -432,11 +467,48 @@
       <option name="project" value="LOCAL" />
       <updated>1602225635454</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新第二次">
+      <created>1602225681893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602225681893</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更新第二次">
+      <created>1602225848835</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602225848835</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新" />
@@ -467,11 +539,6 @@
           <url>file://$PROJECT_DIR$/xc-service-manage-course/src/test/java/com/xuecheng/manage_course/dao/TestRabbion.java</url>
           <line>24</line>
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/service/EsCourseService.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/client/CmsPageClient.java</url>
