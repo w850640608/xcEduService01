@@ -1,6 +1,9 @@
 package com.xuecheng.media;
 
+import com.xuecheng.framework.domain.cms.CmsPage;
+import com.xuecheng.manage_media.dao.MediaFileRepository;
 import org.junit.Test;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import java.io.File;
 import java.io.IOException;
@@ -16,6 +19,31 @@ import java.util.List;
  * @Version 1.0
  */
 public class TestFile {
+    @Autowired
+    MediaFileRepository mediaFileRepository;
+    @Test
+    public void  te(){
+        CmsPage cmsPage = new CmsPage();
+        cmsPage.setTemplateId("123456");
+        cmsPage.setPageName("23456");
+        /*MediaFile mediaFile = new MediaFile();
+        mediaFile.setFileId("1233");
+        mediaFile.setFileOriginalName("1233");
+        mediaFile.setFileName("1233");
+        //文件路径保存相对路径
+        mediaFile.setFilePath("1233");
+        long a =22;
+        mediaFile.setFileSize(a);
+        mediaFile.setUploadTime(new Date());
+        mediaFile.setMimeType("1233");
+        mediaFile.setFileType("1233");
+        //状态为上传成功
+        mediaFile.setFileStatus("301002");
+        Optional<MediaFile> b = mediaFileRepository.findById("b0e96f5452d12cf7f8d0d66642a1315c");
+        System.out.println(b.isPresent());*/
+        // mediaFileRepository.save(mediaFile);
+
+    }
     //测试文件分块
     @Test
     public void testChunk() throws IOException {
